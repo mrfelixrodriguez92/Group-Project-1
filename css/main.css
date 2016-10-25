@@ -35,3 +35,8 @@ nav li a:hover {
   /*display: block;*/
   /*border-radius: 100% 50%; /* gives circle shape to the hover button */
 }
+.dorado, .route66, .gibraltar{
+  background-color: #292E37;
+  text-color: white;
+  margin-left: 15%;
+}
